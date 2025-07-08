@@ -26,3 +26,25 @@ To build a dynamic payroll system that automates net salary calculations, tracks
 | Department   | Headcount | Total Salary |
 |--------------|-----------|--------------|
 | Sales        | High      | Largest salary pool |
+
+## 💡 Value to Employers
+
+This project demonstrates:
+
+- **Strong command of Excel formulas and structure**
+- **Ability to build automated systems for HR and Finance operations**
+- **Analytical thinking through departmental and workforce insights**
+- **Attention to detail in payroll precision**
+
+## 🛠 Tools Used
+
+- Microsoft Excel: Functions, Tables, Data Validation
+- Basic Data Modeling for reporting insights
+
+## 📁 Dataset Included
+
+- Payroll calculations with earnings and deductions
+- Employee master list by department and gender
+- Time-tracking data across a full workweek
+
+![image](https://github.com/user-attachments/assets/66709108-8e94-4b58-b644-966eaebc6c87)
